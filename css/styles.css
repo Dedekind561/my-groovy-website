@@ -1,0 +1,114 @@
+
+
+h1 {
+
+color: black;
+font-family: monospace;
+
+
+}
+
+.jumbotron {
+
+background-color: black;
+font-family: monospace;
+
+}
+
+.jumbotron h1 {
+
+color: white;
+font-family: monospace;
+font-size: 80px;
+position: relative;
+bottom: 50px;
+background-color: black;
+padding: black;
+
+}
+
+.jumbotron h2 {
+
+color: white;
+text-align: left;
+
+}
+
+.jumbotron h3 {
+
+color: white;
+font-size: 20px;
+
+
+}
+
+
+.jumbotron img {
+
+margin-left: -5%
+
+}
+
+.jumbotron figure {
+
+position: relative;
+bottom: 10px;
+
+}
+
+#twittericon {
+
+position: relative;
+left: 500px;
+
+}
+
+#facebookicon {
+
+position: relative;
+left: 600px;
+
+}
+
+#instagramicon {
+
+position: relative;
+left: 430px;
+
+
+}
+
+#amoonshapedpool {
+
+position: relative;
+margin-left: 10px;
+
+}
+
+#cdtext {
+
+position: relative;
+left: 100px;
+
+}
+
+#okcomputertext {
+
+position: relative;
+bottom: 30px;
+
+}
+
+#oldradiohead {
+
+margin-left: 10px;
+
+}
+
+
+.container {
+
+font-family: monospace;
+background-color: black;
+
+}
