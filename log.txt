@@ -1,0 +1,11 @@
+commit 283bcf9f5697f57a0e96726382835a5a6f7f1dee
+Author: Dedekind561 <mitchelllloyd154@gmail.com>
+Date:   Sat Jul 29 16:46:39 2017 +0100
+
+    firstpage added
+
+commit 6dc2e61981c853fffa7c99f153b18b44143ed971
+Author: Dedekind561 <mitchelllloyd154@gmail.com>
+Date:   Sat Jul 29 16:10:35 2017 +0100
+
+    First version finished
